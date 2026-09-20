@@ -1,3 +1,3 @@
 # Site-temático
 Exercício de estrutura de um site
-<img src="https://media1.tenor.com/m/Ga72IMjfnEgAAAAd/chomper-pvz.gif">
+<img src="https://media.tenor.com/ghb7JYYh3coAAAAi/gargantuar-zombie.gif">
