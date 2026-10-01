@@ -5,7 +5,7 @@ Docentes -> Antônio & <h1> João Vitor Cruz </h1>
 
 <nav>
 <li>
-  <a href="../Sitete-matico-main/Página inicial.html">Voltar para o início</a>
+  <a href="../Sitete-matico-main/Página inicial.html">Início do site</a>
 </li>
 
 
